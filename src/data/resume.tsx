@@ -14,7 +14,7 @@ export const DATA = {
 
 Each episode is a mini-documentary where I share my thoughts, experiments, and the stories of people I meet along the way. The channel is a place for curiosity, long-form conversations, and occasional absurdity — basically, a space where I can learn out loud and bring others along for the ride.
 
-I'd love to hear your thoughts - *contact@charanravi.com* `,
+I'd love to hear your thoughts - *youtube@charanravi.com* `,
   avatarUrl: "https://charanravi-online.github.io/human/profile.png",
   skills: [
     "Philosphy",
@@ -33,7 +33,7 @@ I'd love to hear your thoughts - *contact@charanravi.com* `,
     { href: "/journal", icon: NotebookIcon, label: "Journal" },
   ],
   contact: {
-    email: "contact@charanravi.com",
+    email: "youtube@charanravi.com",
     // tel: "+123456789",
     social: {
       // GitHub: {
@@ -65,7 +65,7 @@ I'd love to hear your thoughts - *contact@charanravi.com* `,
       },
       Email: {
         name: "Send Email",
-        url: "mailto:contact@charanravi.com",
+        url: "mailto:youtube@charanravi.com",
         icon: Icons.email,
 
         navbar: true,
